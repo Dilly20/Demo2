@@ -1,7 +1,13 @@
 # Demo2
 
+Les processus de ce travail collaboratif
+
+## cloner le repository Demo
+
+## Faire les commits
+
 ## Faire un push pour l'envoi sur le serveur
 
-### Changer les link et créer un autre branche pour pour travailler avec d'autres fonctionnalités 
+## Créer une branche pour Changer les link
 
-### Fusionner les branches
+## Fusionner la branche créée avec la branche principale
